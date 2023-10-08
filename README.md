@@ -17,7 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vipul-raj-00a0101b6" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="vipul-raj-00a0101b6" height="25" width="60" /></a>
+<a href="https://linkedin.com/in/vipul-raj-00a0101b6" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="vipul-raj-00a0101b6" height="25" width="60" /></a>&nbsp;
+ <a href="https://twitter.com/DarkBalerion69" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%230077B5.svg?logo=Twitter&logoColor=white" alt="vipul-raj-00a0101b6" height="25" width="60" /></a>&nbsp;
 </p>
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vipul-raj-00a0101b6/) -->
 
